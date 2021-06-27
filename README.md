@@ -4,4 +4,4 @@ pdftex.sh copies files to cpbox so you can limit docker's access to host filesys
 
 To use, set `$DOCKER` to parent directory of the repository.
 
-`sh pdftex.sh <path to .tex file`
+`sh pdftex.sh <path to .tex file>`
