@@ -1,3 +1,4 @@
+mkdir $DOCKER/latex_docker/cpbox
 cp $1 /Users/d/documents/art/code/environment/docker/latex_docker/cpbox/input.tex
 cp ./*.sty /Users/d/documents/art/code/environment/docker/latex_docker/cpbox/
 cp ./*.cls /Users/d/documents/art/code/environment/docker/latex_docker/cpbox/
